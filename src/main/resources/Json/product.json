@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "PlayStation 5",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "Abrigo navi muy largo",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "Play 3",
+    "price": 600
+  },
+  {
+    "id": 4,
+    "name": "Motherboard Gigabyte",
+    "price": 735
+  }
+]
